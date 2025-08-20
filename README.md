@@ -1,5 +1,6 @@
 # a-text-translator-application-
 A simple React + Tailwind CSS application that translates English text into your favorite language using the RapidAPI Translation API. 
+
 Features : 
 Translate English text instantly  
 Choose from multiple languages  
